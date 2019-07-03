@@ -35,7 +35,7 @@ public class CategoriesFragment extends Fragment {
     ImageAdapter cardsAdapter;
 
 
-
+///ddsfsdf
     FirebaseAuth mAuth;
     private DatabaseReference mDatabase;
     private DatabaseReference mDatabaseProducts;
