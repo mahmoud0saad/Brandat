@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@android:color/white"
+
+    android:layout_height="85dp">
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <com.mikhaellopez.circularimageview.CircularImageView
+
+            android:id="@+id/image_user_chat_list"
+            android:layout_gravity="center"
+            android:layout_marginTop="4dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_width="70dp"
+            android:layout_height="75dp"
+            android:src="@drawable/ic_account_circle_black_24dp"/>
+        <ImageView
+            android:id="@+id/state_user"
+            android:src="@drawable/offline_gray"
+            android:layout_gravity="right|bottom"
+            android:layout_marginBottom="6dp"
+            android:layout_marginRight="6dp"
+            android:layout_width="21dp"
+            android:layout_height="21dp" />
+
+
+    </FrameLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:gravity="start|center"
+        android:layout_marginTop="4dp"
+
+        android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/name_user_chat_list"
+            android:text="mahmoud"
+            android:padding="12dp"
+            android:gravity="center"
+
+            android:textSize="20sp"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+
+    </LinearLayout>
+    </LinearLayout>

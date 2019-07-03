@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name" translatable="false">projects</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+
+
+    <string name="title_home" translatable="false">Home</string>
+    <string name="title_shops" translatable="false">shops</string>
+    <string name="title_notifications" translatable="false">Chat</string>
+    <string name="title_favorite" translatable="false">My Favorite</string>
+
+    <string name="names_categories_key" translatable="false">namesCategoriesKey</string>
+    <string name="key_chat_uid_reciever">key_of_id_user_recieve</string>
+    <string name="key_of_img_url_user_recieve">imgurlkey</string>
+    <string name="key_user_uid_fragment">userUID</string>
+    <string name="key_imge_url_sender_fragment">imageSender</string>
+    <string name="notification_recieved_action">NotificationAction</string>
+    <string name="key_imge_url_reciever_fragment">imageReciever</string>
+    <string name="user_uid_shared_preference">user_uid</string>
+    <string name="user_imge_url_shared_preference">user_imge_url</string>
+    <string name="key_chat_name_reciever">name_reciever</string>
+    <string name="action_notification_detail_prduct">open_detati_load_data</string>
+    <string name="about_app_text">يعد تطبيق براندات من المواقع الإلكترونية المتخصصة بالإعلانات التي تتيح لمستخدميه البحث بكل سهولة ويُسر عن حاجياته أو عرضها للبيع. فهنالك قائمة الإلكترونيات التي تفتح المجال للمستخدم إيجاد العديد من عروض البيع والشراء لجميع الأجهزة الإلكترونية على حد سواء؛ من المعدّات الثقيلة كالطابعات والتلفاز وغيرها إلى أجهزة الكمبيوتر والأجهزة المحمولة وألعاب الفيديو وغيرها الكثير. كما يمكن للمتصفّح استعراض قائمة الموضة المتخصصة بالأزياء والاكسسوارات ولوازم الأطفال إلى جانب العطور والمستحضرات التجميلية والكثير من الخيارات. كما بإمكانه العثور على قائمة المنزل التي تعرض له جميع الإعلانات المتاحة حول أثاث المنزل وما يحتاجه من معدّات كهربائية وإكسسوارات خاصة. ثم يجد الباحث قائمة للبيع والتي تتيح له فرصة إيجاد أو الإعلان عن أجهزة أو كتب أو أرقام هواتف أو أي شيْ للبيع. وتخدم قائمة عقارات الكثير من الباحثين عن إيجار أو شراء أو حتى عرض أي عقار للبيع أيّاً كانت وجهته. وكأي موقع يرى تطبيق براندات حاجة الباحثين عن عمل لموقع موثوق يعرض لهم آخر فرص العمل المتاحة في كبرى الشركات. وأخيراً تعرض قائمة وظائف شاغرة لائحة بجميع التخصصات للبحث عن شاغر أو الإعلان عن الحاجة إلى عمل معين. كل هذا تجدونه يعد تطبيق براندات من المواقع الإلكترونية المتخصصة بالإعلانات التي تتيح لمستخدميه البحث بكل سهولة ويُسر عن حاجياته أو عرضها للبيع.
+    \n
+    فهنالك قائمة الإلكترونيات التي تفتح المجال للمستخدم إيجاد العديد من عروض البيع والشراء لجميع الأجهزة الإلكترونية على حد سواء؛ من المعدّات الثقيلة كالطابعات والتلفاز وغيرها إلى أجهزة الكمبيوتر والأجهزة المحمولة وألعاب الفيديو وغيرها الكثير.
+        \\n
+    كما يمكن للمتصفّح استعراض قائمة الموضة المتخصصة بالأزياء والاكسسوارات ولوازم الأطفال إلى جانب العطور والمستحضرات التجميلية والكثير من الخيارات.
+
+    كما بإمكانه العثور على قائمة المنزل التي تعرض له جميع الإعلانات المتاحة حول أثاث المنزل وما يحتاجه من معدّات كهربائية وإكسسوارات خاصة.
+
+    ثم يجد الباحث قائمة للبيع والتي تتيح له فرصة إيجاد أو الإعلان عن أجهزة أو كتب أو أرقام هواتف أو أي شيْ للبيع.
+
+    وتخدم قائمة عقارات الكثير من الباحثين عن إيجار أو شراء أو حتى عرض أي عقار للبيع أيّاً كانت وجهته. وكأي موقع يرى تطبيق براندات حاجة الباحثين عن عمل لموقع موثوق يعرض لهم آخر فرص العمل المتاحة في كبرى الشركات.
+
+    وأخيراً تعرض قائمة وظائف شاغرة لائحة بجميع التخصصات للبحث عن شاغر أو الإعلان عن الحاجة إلى عمل معين. كل هذا تجدونه في التطبيق
+    </string>
+    <string-array name="names_categories">
+        <item>عربيات وقطع غيار</item>
+        <item>عقارات</item>
+        <item>موبيلات واكسسوارات</item>
+        <item>الكترونيات و اجهزه منزليه</item>
+        <item>المنزل والحديقه</item>
+        <item>الموضه والجمال</item>
+        <item>حيوانات اليفه</item>
+        <item>مستلزمات أطفال</item>
+    </string-array>
+
+
+</resources>
